@@ -19,3 +19,4 @@ test.cpp
 *.log
 *.synctex.gz
 *.tex
+*.png
