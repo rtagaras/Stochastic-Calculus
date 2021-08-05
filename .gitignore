@@ -1,0 +1,21 @@
+# This ignores files without an extension (e.x. C++ binaries)
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore all directories that store datafiles
+**/Data
+
+test.cpp
+
+**/Eigen
+
+*.aux
+*.log
+*.synctex.gz
+*.tex
